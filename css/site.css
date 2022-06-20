@@ -1,6 +1,6 @@
 :root{
-    --primary-color: #1d5888;
-    --secondary-color: #ff993b;
+    --primary-color: #000000;
+    --secondary-color: #ee2c26;
     --dark-color: #292929;
     --white-color: #dff3e4;
 
@@ -63,7 +63,7 @@ main>.container {
 }
 
 .fa-check-square{
-    color: rgb(19, 210, 131);
+    color: #ee2c26;
 }
 
 code[class*="language-"],
